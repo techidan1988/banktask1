@@ -5,6 +5,7 @@ from func import decrease
 from func import show_balance
 from func import transaction_history
 
+
 Manager_menu ='''
 Budget Manager
 1. Add Income
