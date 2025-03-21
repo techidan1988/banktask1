@@ -23,13 +23,13 @@ Budget Manager
 5. Exit
 
 ##Example 1: Adding an Income
--Select an option: 1
--Add Income number: 500
--Description: Salary
+- **Select an option: 1
+- **Add Income number: 500
+- **Description: Salary
 
 ## viewing the Transaction History
--Select an option: 4
--Transaction History:
--No   Price   Description         Type
--0    500     Salary              incomes
--1    200     Grocery Shopping   expenses
+- **Select an option: 4
+- **Transaction History:
+- **No   Price   Description         Type
+- **0    500     Salary              incomes
+- **1    200     Grocery Shopping   expenses
