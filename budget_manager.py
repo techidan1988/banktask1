@@ -14,18 +14,14 @@ Budget Manager
 4. Show Transaction History
 5. Exit
 '''
-print(Manager_menu)
 while True:
+    print(Manager_menu)
     num = int(input('Select an option: '))
     match num:
         case 1:
-            price = input('add Income number')
-            desc = input('description')
-            increase(price=int(price),desc=desc)
+            increase()
         case 2:
-            price = input('add Income number')
-            desc = input('description')
-            decrease(price=int(price), desc=desc)
+            decrease()
         case 3:
             show_balance()
         case 4:
